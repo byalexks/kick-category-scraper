@@ -1,0 +1,9 @@
+# Credenciales
+.kick-credentials.json
+
+# Dependencias
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
